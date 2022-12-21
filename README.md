@@ -1,6 +1,6 @@
 # Overview
 
-🌱 I’m also learning NodeJs, React, Python, Perl and Bash
+🌱 I’m also learning NodeJs, React, mongoDB, Java and Data structures 
 
 👨‍💻 All of my projects are available
 
